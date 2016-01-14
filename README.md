@@ -3,6 +3,8 @@ Feed URL
 
 This plugin simply outputs the value of a particular weblog’s RSS Feed URL (which you’ll find in the weblog’s path configuration in the control panel).  Use it in any template on your site.
 
+If you want to use it, [please buy it](https://devot-ee.com/add-ons/feed-url). :)
+
 Want more ?
 ===========
 Take a look at our [ExpressionEngine Add-Ons](http://www.hopstudios.com/software)
