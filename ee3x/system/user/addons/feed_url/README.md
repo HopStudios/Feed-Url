@@ -1,17 +1,30 @@
-Feed URL
-================
+# Feed URL
 
 This plugin simply outputs the value of a particular weblog’s RSS Feed URL (which you’ll find in the weblog’s path configuration in the control panel).  Use it in any template on your site.
 
-If you want to use it, [please buy it](https://devot-ee.com/add-ons/feed-url). :)
+## Usage
 
-[More information, how to use...](ee3x/system/user/addons/feed_url/README.md)
+### `{exp:feed_url}` tag pair
 
-Want more ?
-===========
-Take a look at our [ExpressionEngine Add-Ons](http://www.hopstudios.com/software)
+#### Example
 
-##License
+```
+<a href="{exp:feed_url channel="hopstudios_blog"}" title="RSS">RSS</a>  
+```
+
+#### Parameters
+
+- `channel="channel_short_name"`  THIS IS A REQUIRED ATTRIBUTE
+
+## Changelog
+
+### 1.0.0
+
+Initial Release
+
+
+## Licence
+
 Updated: Jan. 6, 2009
 
 ####Permitted Use
