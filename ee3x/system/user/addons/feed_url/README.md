@@ -16,6 +16,12 @@ This plugin simply outputs the value of a particular weblog’s RSS Feed URL (wh
 
 - `channel="channel_short_name"`  THIS IS A REQUIRED ATTRIBUTE
 
+
+## Support
+
+Having issues ? Found a bug ? Suggestions ? Contact us at [tech@hopstudios.com](mailto:tech@hopstudios.com)
+
+
 ## Changelog
 
 ### 1.0.0
